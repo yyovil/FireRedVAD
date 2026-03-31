@@ -1,0 +1,1 @@
+@requirements.txt will only work on windows/linux with NVIDIA CUDA support right. There's no other way?
